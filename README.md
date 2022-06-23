@@ -21,9 +21,11 @@ Maria, a school board representative have asked that the previously completed sc
 * The 9th grade scores for Thomas High School became "nan" in the report, indicating that they are not numbers.
 
 Math:
+
 ![math_scores_by_grade](https://github.com/mcwatts88/School_District_Analysis/blob/main/Resources/math_scores_by_grade.PNG)
 
 Reading:
+
 ![reading_scores_by_grade](https://github.com/mcwatts88/School_District_Analysis/blob/main/Resources/reading_scores_by_grade.PNG)
 
 * The scores by school spending did not change with the removal of 9th grade data.
